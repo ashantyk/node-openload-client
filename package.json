@@ -1,0 +1,29 @@
+{
+    "name": "node-openload",
+    "version": "1.0.0",
+    "description": "NodeJS OpenLoad API client using promises.",
+    "license": "MIT",
+    "main": "index.js",
+    "homepage": "https://github.com/ashantyk/node-openload-client",
+    "dependencies": {
+        "got": "^7.1.0"
+    },
+    "devDependencies": {
+        "assert": "~1.4.1",
+        "mocha": "^3.5.0"
+    },
+    "author": {
+        "name": "Gabriel Barbieru",
+        "email": "ashantyk@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ashantyk/node-openload-client.git"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "engines": {
+        "node": ">=8"
+    }
+}
