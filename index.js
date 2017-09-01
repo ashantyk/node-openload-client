@@ -1,4 +1,1 @@
-module.exports = {
-    "Client" : require('./src/client.js'),
-    "ClientException" : require('./src/exception.js')
-};
+module.exports = require('./src/client.js');
