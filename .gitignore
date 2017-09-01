@@ -8,4 +8,4 @@ node_modules/
 .idea/
 
 # credentials config file
-/test/credentials.js
+test/credentials.js
